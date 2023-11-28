@@ -1,3 +1,3 @@
 #This is a text
--first
--second
+- first
+- second
